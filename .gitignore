@@ -1,6 +1,9 @@
 node_modules
-
+components
 
 // turned off example tests directories
 1-getting-started
 2-advanced-examples
+
+// turn off code coverage
+coverage/
